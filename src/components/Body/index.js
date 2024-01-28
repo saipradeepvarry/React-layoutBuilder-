@@ -25,9 +25,14 @@ const Body = () => (
             <div className="content">
               <h1 className="body-header-text">Content</h1>
               <p className="content-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam.
+                Self-motivated and results-driven professional with a passion
+                for exceeding expectations. With a solid background in Fullstack
+                Development, I have consistently demonstrated strong analytical
+                and problem-solving skills, coupled with a proactive approach to
+                project management. I thrive in fast-paced environments and have
+                a proven ability to adapt to changing priorities while
+                delivering high-quality results. Committed to continuous
+                learning and professional growth
               </p>
             </div>
           ) : null}
